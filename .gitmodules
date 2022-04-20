@@ -1,0 +1,6 @@
+[submodule "Sub-IoT-Stack"]
+	path = Sub-IoT-Stack
+	url = git@github.com-personal:KwintenSchram/Sub-IoT-Stack.git
+[submodule "pyd7a"]
+	path = pyd7a
+	url = git@github.com-personal:L-I-Am/pyd7a.git
